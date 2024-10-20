@@ -22,6 +22,10 @@ a {
   color: var(--first-color);
 }
 
+.bold {
+  font-weight: bold;
+}
+
 
 /* ============= VARIABLES CSS ============= */
 :root {
@@ -556,7 +560,7 @@ section .title::after {
 /* ============= PROJECT SECTION ============= */
 .portfolio .title::after {
   background: #fff;
-  content: "meu portfólio";
+  content: "Principais ferramentas utilizadas";
   white-space: nowrap;
 }
 
