@@ -349,7 +349,7 @@ section .title::after {
 
 .services .title::after {
   background: var(--color-black);
-  content: "o que forneço";
+  content: "Como a ImAIgination pode te ajudar?";
   color: var(--first-color);
   white-space: nowrap;
 }
