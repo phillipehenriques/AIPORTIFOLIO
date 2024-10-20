@@ -18,9 +18,9 @@ $(document).ready(function () {
   var typed = new Typed('.typing', {
     strings: [
       'Gen AI Image & Video',
-      'Front End Developer',
-      'B2B Marketing Professional',
-      'Content Creator',
+      'ProgramadorFront End',
+      'Professional de Marketing ',
+      'Criador de Conteúdo',
     ],
     typeSpeed: 50,
     backSpeed: 20,
