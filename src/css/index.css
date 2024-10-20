@@ -60,6 +60,10 @@ a {
   margin: auto;
 }
 
+.portfolio-description-about a {
+  color: var(--color-purple-light)
+}
+
 
 /* ============= MENU NAVBAR ============= */
 .nav-bar {
