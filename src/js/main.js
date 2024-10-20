@@ -17,12 +17,13 @@ $(document).ready(function () {
   // typing animation
   var typed = new Typed('.typing', {
     strings: [
+      'Gen AI Image & Video',
       'Front End Developer',
       'B2B Marketing Professional',
       'Content Creator',
     ],
-    typeSpeed: 100,
-    backSpeed: 60,
+    typeSpeed: 50,
+    backSpeed: 20,
     loop: true,
   });
 
