@@ -18,7 +18,7 @@ $(document).ready(function () {
   var typed = new Typed('.typing', {
     strings: [
       'Gen AI Image & Video',
-      'ProgramadorFront End',
+      'Programador Front End',
       'Professional de Marketing ',
       'Criador de Conteúdo',
     ],
