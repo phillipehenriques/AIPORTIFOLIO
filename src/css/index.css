@@ -136,7 +136,7 @@ a {
 
 .home {
   display: flex;
-  background: url("/src/img/background.jpg") top no-repeat;
+  background: url("/src/img/background1.png") top no-repeat;
   background-size: cover;
   color: var(--color-white);
   height: 100vh;
