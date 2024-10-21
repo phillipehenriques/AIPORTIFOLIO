@@ -656,8 +656,8 @@ section .title::after {
 
 /* ============= CONTACT SECTION ============= */
 .contact .title::after {
-  content: "mensagem";
-  color: var(--color-purple-light);
+  content: "entre em contato";
+  color: var(--first-color);
   background: var(--color-black);
   white-space: nowrap;
 }
@@ -670,7 +670,7 @@ section .title::after {
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 10px;
-  color: var(--color-purple-light);
+  color: var(--first-color);
 }
 
 .contact .contact-content .left p {
@@ -697,7 +697,7 @@ section .title::after {
 
 .contact .contact-content .row i {
   font-size: 20px;
-  color: var(--color-purple-light);
+  color: var(--first-color);
 }
 
 .contact .contact-content .info .head {
@@ -711,7 +711,7 @@ section .title::after {
 .contact .contact-content .input-area input:focus,
 .contact .contact-content .input-area textarea:focus,
 .contact .contact-content .input-area input.active {
-  border: 2px solid var(--color-purple-light);
+  border: 2px solid var(--first-color);
 }
 
 
@@ -795,7 +795,7 @@ footer {
 }
 
 footer span a {
-  color: var(--color-purple-light);
+  color: var(--first-color);
   text-decoration: none;
 
 footer span a:hover {

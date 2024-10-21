@@ -17,10 +17,10 @@ $(document).ready(function () {
   // typing animation
   var typed = new Typed('.typing', {
     strings: [
-      'Gen AI Image & Video',
-      'Programador Front End',
-      'Professional de Marketing ',
-      'Criador de Conteúdo',
+      'Criação de Imagens Realistas',
+      'Criação de Vídeos Profissionais',
+      'Clonagem de voz e face com IA',
+      'Criação de Agentes Personalizados',
     ],
     typeSpeed: 50,
     backSpeed: 20,
